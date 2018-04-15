@@ -1,0 +1,4 @@
+server_ip=192.168.64.128
+server_port=2000
+thread_num=5
+server_capacity=10
